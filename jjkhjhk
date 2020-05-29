@@ -1,6 +1,0 @@
-int n;
-do
-{
-  n = get_int("Positive Number");
-}
-while (n < 1);
